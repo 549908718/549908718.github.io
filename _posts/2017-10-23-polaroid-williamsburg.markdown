@@ -3,7 +3,7 @@ layout: post
 title: "熊鹏"
 date: 2017-10-23
 description: 
-image: /assets/images/placeholder-9.jpg
+image: /assets/images/group_01.jpg
 author: Thomas Vaeth
 tags: 
   - Dummy Text
